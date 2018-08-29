@@ -1,0 +1,27 @@
+#letters {
+    letter-spacing: 20px;
+    font-size: 60px;
+    padding: 20px;
+}
+#worddiv{
+    width: 60%;
+    margin:auto;
+    border: 3px solid blue;
+    padding: 20px;
+    text-align: center;
+
+}
+img{
+    object-fit: cover;
+    width:400px;
+    height:400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#head{
+    font-size: 70px;
+    text-align: center;
+    padding:20px;
+    background-color: aqua;
+}
